@@ -1,11 +1,9 @@
-SePrAnd = Security Privacy Android
-
 ## To serve the site locally on your computer:
 
 - [Install Hugo](https://gohugo.io/installation/)
 - Run `hugo server --disableFastRender`
 
-## To update:
+## To update Hugo and Hextra:
 
 When there's a new [Hextra](https://github.com/imfing/hextra) release, find the latest supported `HUGO_VERSION` from [this page](https://github.com/imfing/hextra/blob/main/.github/workflows/pages.yml) and update our `.github/workflows/pages.yaml` file to match it. It kind of looks like this:
 
@@ -26,4 +24,4 @@ hugo mod tidy
 
 Finally, create a PR with the changes.
 
-** A weird note: If, for some reason, you start to see the `README.md` instead of the site after deploying, check the [repo settings](https://github.com/SePrAnd/seprand.github.io/settings/pages) and confirm under "Build and deployment" the source is set to "GitHub Actions".
+** If, for some reason, you start to see the `README.md` instead of the site after deploying, check the [repo settings](https://github.com/SePrAnd/seprand.github.io/settings/pages) and confirm under "Build and deployment" the source is set to "GitHub Actions".

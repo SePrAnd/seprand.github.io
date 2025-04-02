@@ -17,6 +17,7 @@ It is important to remember that all apps on Android are sandboxed, regardless o
 - In cases where apps don't support multiple logins, profiles can be used to get around this kind of limitation.
 - All profiles have their own unique encryption keys, even if they share the same PIN or password.
 - It's possible to end secondary user profiles' sessions, putting their data at rest (a reboot is necessary to put the owner profile's data to rest). This also stops apps from running in the background.
+- The owner profile can control secondary user profiles' access to: continue running while other profiles are in the foreground, phone calls and SMS, and installing apps.
 - Each profile has its own set of contacts, files and media directories. Apps in different profiles, which have been granted the necessary permissions, can only access data from that profile. The [Storage](https://grapheneos.org/features#storage-scopes) and [Contact](https://grapheneos.org/features#contact-scopes) Scopes features in GrapheneOS allow users to choose exactly what contacts, files and media any app can access, providing a more convenient way of achieving isolation of these data types.
 - Each profile has its own VPN setup, so even if two profiles are running at the same time, they can use servers in different countries, using different VPN providers, or even no VPN at all.
 

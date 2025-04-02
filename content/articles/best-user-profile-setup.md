@@ -23,6 +23,8 @@ In some rare cases, some apps will not work when used in a secondary user profil
 
 There is no single "best" profile setup. Each individual person has their own specific needs and use their devices in their own way. It's impossible for anyone to say one setup is the best because it's entirely subjective.
 
+Although user profiles have some security and privacy benefits, their primary purpose is to allow multiple people to use a single device. This means that each person can customize their own profile as they please. Profiles also allow a single person to group apps and data on a "per-persona" basis. For example, some may choose to have separate profiles for work, social media, games, etc.
+
 ## Some Common Setups
 
 ### Isolated Google Apps

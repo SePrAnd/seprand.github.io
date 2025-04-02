@@ -43,10 +43,6 @@ Some users who tend to use profiles a lot like to set up their owner profile to 
 
 You can only push apps to other profiles from the owner profile. You can do so from `Settings > System > Users > Profile > Install available apps`.
 
-### Separate Profile Per-Persona
-
-Another common setup is using profiles on a per-persona basis. An easy example of this would be to have one profile set up for one's private life, and another for one's work life. This kind of setup can also be useful for other things, like having different profiles for social media, gaming, etc. Be careful not to set up too many profiles, though, as most people find that juggling too many profiles can be annoying.
-
 ### No Secondary User Profiles
 
 One option that many never even consider is not using secondary user profiles at all. Using profiles can add some unnecessary annoyances for some people because of how notifications work or switching between profiles is annoying, or PINs / passwords are too long or annoying. Keep in mind that all apps are sandboxed, so for many threat models, profiles aren't even necessary. So, for some users, a no profiles setup may actually be the best fit for them.

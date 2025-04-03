@@ -39,7 +39,7 @@ Many GrapheneOS users choose to keep their owner profile almost completely empty
 
 One advantage to this setup is that if a secondary user profile needs to be deleted for any reason, it's easy to do so, either from within the specific profile itself, or from the owner profile. There's no need to do a factory reset, and any other profiles that might be on the device won't be affected.
 
-Another advantage is that the owner profile can set many global or other "dangerous" settings (like enabling ADB, or adjusting USB-C settings, for example). By regularly using a profile other than the owner profile, these settings are harder to access. However, keep in mind that most "dangerous" settings are still protected by the owner profile's PIN or password.
+Another advantage is that the owner profile can set many global or other "dangerous" settings (like enabling ADB, or adjusting USB-C settings, for example). By regularly using a profile other than the owner profile, these settings are harder to access. However, keep in mind that even if the owner profile is unlocked the owner profile's PIN or password must be entered to change most "dangerous" settings.
 
 ### Owner as an App Pusher
 

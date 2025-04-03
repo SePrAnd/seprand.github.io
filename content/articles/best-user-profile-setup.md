@@ -13,7 +13,7 @@ When creating a new user profile you go through the setup wizard similar to when
 It is important to remember that all apps on Android are sandboxed, regardless of which profile they're installed in. For most use-cases, using secondary user profiles to further isolate apps is unnecessary. However, isolating apps to different profiles does have a few advantages, some of which are listed below:
 
 - Apps cannot communicate with apps in other profiles via inter-process communication (IPC).
-- Apps cannot list installed apps in other profiles without special permission.
+- Apps cannot discover which apps are installed in other user profiles.
 - In cases where apps don't support multiple logins, profiles can be used to get around this kind of limitation.
 - All profiles have their own unique encryption keys, even if they share the same PIN or password.
 - It's possible to end secondary user profiles' sessions, putting their data at rest (a reboot is necessary to put the owner profile's data to rest). This also stops apps from running in the background.
@@ -25,7 +25,7 @@ In some rare cases, some apps will not work when used in a secondary user profil
 
 There is no single "best" profile setup. Each individual person has their own specific needs and use their devices in their own way. It's impossible for anyone to say one setup is the best because it's entirely subjective.
 
-Although user profiles have some security and privacy benefits, their primary purpose is to allow multiple people to use a single device. This means that each person can customize their own profile as they please. Profiles also allow a single person to group apps and data on a "per-persona" basis. For example, some may choose to have separate profiles for work, social media, games, etc.
+Although user profiles have some security and privacy benefits, their primary purpose is to allow multiple people to use a single device. This means that each person can customize their own profile as they please. Profiles also allow a single person to group apps and data on a "per-persona" basis. For example, some may choose to have separate user profiles for their employment, social media, games, etc.
 
 ## Some Common Setups
 

@@ -53,6 +53,8 @@ One option that many never even consider is not using secondary user profiles at
 
 There is also the option to use the Private Space feature as an alternative to using a secondary user profile. This is a special type of profile nested under the owner profile. Apps in the Private Space and owner profile can be accessed simultaneously. Note that, currently, there's a limit of one Private Space and it can only be in the owner profile. Also, the clipboard is shared between the owner profile and the Private Space, which is a significant vector for data to leak if not operated carefully.
 
+For users who want an additional nested profile, it's possible to also use a work profile managed by apps like Insular or Island. Private Space and work profiles are very similar, but Private Space has better OS integraion and isolation, so Private Space is recommended by GrapheneOS over work profiles if possible.
+
 ## Final Thoughts
 
 Don't worry too much about setting up user profiles perfectly the first time. Many in the GrapheneOS community have said that they've gone through multiple setups before finally settling on what they think works for them.

@@ -6,5 +6,3 @@ cascade:
 toc: false
 breadcrumbs: false
 ---
-
-Some various articles by us.

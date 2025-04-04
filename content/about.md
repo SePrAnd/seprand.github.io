@@ -1,9 +1,9 @@
 ---
-title: About SePrAnd
+title: About Seprand
 type: about
 ---
 
-SePrAnd is a site made by multiple people active within the GrapheneOS community.
+Seprand is a site made by multiple people active within the GrapheneOS community.
 
 Our goal is to share useful information for people interested in GrapheneOS and mobile privacy and
 security.

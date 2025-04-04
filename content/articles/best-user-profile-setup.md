@@ -1,5 +1,6 @@
 ---
 title: Best User Profile Setup on GrapheneOS
+summary: How to pick a profile setup that works best for you.
 ---
 
 One of the most common questions posed by new (and even sometimes not so new) GrapheneOS users is about the "best" profile setup.

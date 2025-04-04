@@ -21,9 +21,6 @@ menu:
     - name: Articles
       pageRef: /articles
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
     # - name: Contact ↗
     #   url: "https://github.com/imfing"
     #   weight: 3

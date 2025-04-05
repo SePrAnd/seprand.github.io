@@ -1,6 +1,8 @@
 # Hugo configuration file
 title: Seprand
 
+enableGitInfo: true
+
 # import hextra as module
 module:
   imports:

@@ -60,3 +60,6 @@ params:
   editURL:
     enable: true
     base: "https://github.com/SePrAnd/seprand.github.io/tree/main/content"
+
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"

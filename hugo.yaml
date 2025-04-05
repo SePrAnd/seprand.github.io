@@ -63,3 +63,11 @@ params:
 
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
+
+  blog:
+    list:
+      displayTags: true
+      sortBy: title
+      sortOrder: asc
+    article:
+      displayPagination: false

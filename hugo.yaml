@@ -60,6 +60,9 @@ params:
     enable: true
     base: "https://github.com/SePrAnd/seprand.github.io/tree/main/content"
 
+  page:
+    width: wide
+
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
 

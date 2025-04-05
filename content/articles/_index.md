@@ -1,8 +1,7 @@
 ---
 title: Articles
-type: blog
 cascade:
-  type: docs
+  type: blog
 toc: false
 breadcrumbs: false
 ---

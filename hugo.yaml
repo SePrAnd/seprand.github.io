@@ -23,9 +23,9 @@ menu:
     - name: Articles
       pageRef: /articles
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
+    # - name: Guides
+    #   pageRef: /guides
+    #   weight: 2
     - name: Search
       weight: 3
       params:

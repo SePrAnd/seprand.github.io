@@ -43,6 +43,11 @@ menu:
     #   url: "https://twitter.com/"
     #   params:
     #     icon: x-twitter
+    - name: RSS Feed
+      weight: 6
+      url: "/index.xml"
+      params:
+        icon: rss
 
 params:
   description: Articles and Guides About GrapheneOS by the Community

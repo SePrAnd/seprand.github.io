@@ -45,6 +45,8 @@ menu:
     #     icon: x-twitter
 
 params:
+  description: Articles and Guides About GrapheneOS by the Community
+
   navbar:
     displayTitle: true
     displayLogo: false

@@ -3,6 +3,8 @@
 - [Install Hugo](https://gohugo.io/installation/)
 - Run `hugo server --disableFastRender`
 
+To connect from another device, use `hugo server --bind=192.168.100.101 --baseURL=192.168.100.101:1313 -D`, replacing the IP address with your local IP.
+
 ## To update Hugo and Hextra:
 
 When there's a new [Hextra](https://github.com/imfing/hextra) release, find the latest supported `HUGO_VERSION` from [this page](https://github.com/imfing/hextra/blob/main/.github/workflows/pages.yml) and update our `.github/workflows/pages.yaml` file to match it. It kind of looks like this:
